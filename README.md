@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hola a todo el mundo 🤓💻
 
-<!--
-**RodrigoVizcarraDev/RodrigoVizcarraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre mi
 
-Here are some ideas to get you started:
+Soy un desarrollador web dedicado a mi pasión que es enseñar. Actualmente me encuentro creando proyectos personales y creciendo como creador de contenido en diversas plataformas como [Tiktok](https://www.tiktok.com/@rospodev?is_from_webapp=1&sender_device=pc) y [Youtube](https://www.youtube.com/channel/UCXiPc95_Dq_EsiCmHy51hfQ) donde enseño Desarrollo Web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tecnologías que aprendí
+### Desarrollo web
+* HTML 
+* CSS
+* JavaScript
+* Bootstrap
+### Diseño web
+* Figma
+* Canva
+
+# Mis redes sociales
+[Tiktok](https://www.tiktok.com/@rospodev?is_from_webapp=1&sender_device=pc)
+
+[Youtube](https://www.youtube.com/channel/UCXiPc95_Dq_EsiCmHy51hfQ) 
+
+[LinkedIn](https://www.linkedin.com/in/rodrigo-vizcarra96/)
